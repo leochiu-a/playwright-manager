@@ -21,3 +21,15 @@ pnpm-debug.log*
 
 # Mac 系統檔案
 .DS_Store
+
+# Playwright 測試產物
+playwright-report/
+test-results/
+
+# 其他常見暫存檔
+*.swp
+*.swo
+*.tmp
+*.log
+.idea/
+*.tsbuildinfo

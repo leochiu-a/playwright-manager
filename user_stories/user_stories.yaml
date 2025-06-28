@@ -1,0 +1,4 @@
+- id: US-001
+  title: 使用者可以登入
+  test_cases:
+    - login.spec.ts#should login successfully
